@@ -122,3 +122,41 @@ Attention ! Cette liste peut ne pas être à jour.
 * Entrée du village | Biome zone aménagée
 
 </details>
+
+## 5 \~ Fouiller la zone
+
+Il est possible de fouiller la zone où vous êtes avec la commande \<prefix>dig. Cette commande donnera des matériaux (ou pas) différents en fonction du biome de la zone dans laquelle vous êtes. Chaque zone peut être fouillée toutes les deux heures. Voici une liste des matériaux trouvables dans les différents biomes :&#x20;
+
+{% hint style="warning" %}
+Attention ! Cette liste peut ne pas être à jour.
+{% endhint %}
+
+{% tabs %}
+{% tab title="Prairie" %}
+Cuir, Graine, Ver
+{% endtab %}
+
+{% tab title="Forêt" %}
+Bois, Ver
+{% endtab %}
+
+{% tab title="Vallée rocheuse" %}
+Tamahagane
+{% endtab %}
+
+{% tab title="Forêt noire" %}
+Bois, Ver
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Habitation" %}
+Papier
+{% endtab %}
+
+{% tab title="Zone aménagée" %}
+Grimoire, Cuir, Modèle d'arme
+{% endtab %}
+{% endtabs %}
+
+Lorsque vous fouillez la zone, vous n'est pas en garantie d'obtenir à chaque fois tous les objets d'une zone. Par exemple, pour la zone aménagée qui comporte 3 éléments, vous pouvez obtenir que du cuir (par exemple).
