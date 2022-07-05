@@ -224,3 +224,7 @@ Il n'y a qu'un seul choix secondaire : jeter l'éponge, abandonner, déclarer fo
 ## 6 \~ Les fins d'arène
 
 Lorsqu'un joueur périt ou déclare forfait, il se retrouve exclu de son équipe. Lorsqu'une équipe ne contient plus aucun joueur, l'autre équipe est déclarée vainqueur, et tous ses joueurs encore en vie bénéficient des bonus de victoire.
+
+Voici un exemple illustré ci-dessous :&#x20;
+
+![](https://cdn.discordapp.com/attachments/992872062546874498/994004695922266112/unknown.png)
