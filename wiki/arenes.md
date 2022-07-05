@@ -169,3 +169,51 @@ L'organisation des données est le même que pour l'attaque, si vous ne vous en 
 
 ### B. Les choix primaires
 
+{% tabs %}
+{% tab title="La défense rapide" %}
+**Emoji : 🛡️**
+
+\
+La défense rapide est une défense risquée mais optimale pour temporiser dans un combat. Elle restaure la stamina et contre presque parfaitement des petites attaques.
+
+**Données mathématiques :**&#x20;
+
+```
+encaissement = 50% défense
+stamina = +1
+ratio de contre = +5%
+```
+{% endtab %}
+
+{% tab title="La défense chargée" %}
+**Emoji : 💥**\
+\
+La défense chargée est une défense coûteuse mais très efficace. Elle encaisse une majeure partie des dégâts peu importe l'attaque. Cependant, attention à ne pas vous rater, car elle peut vous causer du tord.
+
+**Données mathématiques :**&#x20;
+
+```
+encaissement = 75% défense
+stamina = -2
+ratio de contre = +5
+ratio de fail = +10%
+```
+{% endtab %}
+
+{% tab title="Le contre" %}
+**Emoji : ☄️**\
+\
+Cette défense est sans doute une des plus dure à maîtriser. Elle coûte peu de stamina, ne possède pas un grand encaissement, mais possède un potentiel de dégâts énorme. Elle peut renvoyer à l'attaquant des dégâts assez élevés pour retourner une situation dangereuse.
+
+**Données mathématiques :**&#x20;
+
+```
+encaissement (si pas contré) = 40% défense
+stamina = -1
+ratio de contre = +25%
+ratio de fail = +10%
+dégâts de contre = 40% force (défenseur) - 15% défense (attaquant)
+```
+{% endtab %}
+{% endtabs %}
+
