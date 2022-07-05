@@ -151,7 +151,7 @@ Bois, Ver
 
 {% tabs %}
 {% tab title="Habitation" %}
-Papier
+Papier, Modèle d'arme
 {% endtab %}
 
 {% tab title="Zone aménagée" %}
