@@ -33,8 +33,92 @@ Attention ! Cette liste peut ne pas être à jour.
 
 <details>
 
-<summary></summary>
+<summary>🗻 Mont Sagiri</summary>
 
+* Pied de la montagne | Biome prairie
 
+</details>
+
+<details>
+
+<summary>⛰️ Mont Urusai</summary>
+
+* Pied de la montagne | Biome prairie
+
+</details>
+
+<details>
+
+<summary>🌸 Mont Fujikasane</summary>
+
+* Pied de la montagne | Biome prairie
+
+</details>
+
+<details>
+
+<summary>🏡 Maison familiale</summary>
+
+* Jardin de front | Biome prairie
+* Dans la hutte | Biome habitation
+* Champs | Biome prairie
+* Forêt | Biome forêt
+
+</details>
+
+<details>
+
+<summary>🏯 QG des pourfendeurs</summary>
+
+* Cour principale | Biome zone aménagée
+
+</details>
+
+<details>
+
+<summary>🦋 Domaine des papillons</summary>
+
+* Cour principale | Biome zone aménagée
+
+</details>
+
+<details>
+
+<summary>🛖 Village des forgerons</summary>
+
+* Entrée du village | Biome zone aménagée
+
+</details>
+
+<details>
+
+<summary>🚂 Ville du train</summary>
+
+* Gare | Biome zone aménagée
+
+</details>
+
+<details>
+
+<summary>👘 Yoshiwara</summary>
+
+* Ruelle principale | Biome zone aménagée
+* Chez Franky | Biome habitation
+
+</details>
+
+<details>
+
+<summary>🐈 Asakusa</summary>
+
+* Grande rue | Biome zone aménagée
+
+</details>
+
+<details>
+
+<summary>🎀 Village du marais</summary>
+
+* Entrée du village | Biome zone aménagée
 
 </details>
