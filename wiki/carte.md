@@ -23,6 +23,18 @@ Il y a deux types de voyage, le premier est le voyage interrégional (commande: 
 | Temps de voyage:  | Variable d'une région à l'autre | 10 minutes constant     |
 | Espaces concernés | Régions                         | Zones (dans une région) |
 
+Voici une capture d'écran montrant comment marche les commandes de voyage :&#x20;
+
+{% tabs %}
+{% tab title="Voyage interrégional" %}
+![](https://cdn.discordapp.com/attachments/958432552044097536/993838077384605828/unknown.png)
+{% endtab %}
+
+{% tab title="Voyage intrarégional" %}
+![](https://cdn.discordapp.com/attachments/958432552044097536/993837618766807040/unknown.png)
+{% endtab %}
+{% endtabs %}
+
 ## 4 \~ Les biomes
 
 Chaque région contient une ou plusieurs zones. Chaque zone est un biome différent. Voici une liste des biomes pour chaque région :&#x20;
@@ -125,7 +137,7 @@ Attention ! Cette liste peut ne pas être à jour.
 
 ## 5 \~ Fouiller la zone
 
-Il est possible de fouiller la zone où vous êtes avec la commande \<prefix>dig. Cette commande donnera des matériaux (ou pas) différents en fonction du biome de la zone dans laquelle vous êtes. Chaque zone peut être fouillée toutes les deux heures. Voici une liste des matériaux trouvables dans les différents biomes :&#x20;
+Il est possible de fouiller la zone où vous êtes avec la commande `<prefix>dig`. Cette commande donnera des matériaux (ou pas) différents en fonction du biome de la zone dans laquelle vous êtes. Chaque zone peut être fouillée toutes les deux heures. Voici une liste des matériaux trouvables dans les différents biomes :&#x20;
 
 {% hint style="warning" %}
 Attention ! Cette liste peut ne pas être à jour.
@@ -160,3 +172,11 @@ Grimoire, Cuir, Modèle d'arme
 {% endtabs %}
 
 Lorsque vous fouillez la zone, vous n'est pas en garantie d'obtenir à chaque fois tous les objets d'une zone. Par exemple, pour la zone aménagée qui comporte 3 éléments, vous pouvez obtenir que du cuir (par exemple).
+
+![](https://cdn.discordapp.com/attachments/958432552044097536/993838743150673950/unknown.png)
+
+## 6 \~ Voir sa localisation
+
+Il est possible de savoir où vous êtes ! Pour cela il suffit de faire la commande `<prefix>map`, rien de plus. Voici un exemple ci-dessous :&#x20;
+
+![](https://cdn.discordapp.com/attachments/958432552044097536/993839411395579934/unknown.png)
