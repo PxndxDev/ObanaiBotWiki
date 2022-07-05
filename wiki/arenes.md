@@ -217,3 +217,10 @@ dégâts de contre = 40% force (défenseur) - 15% défense (attaquant)
 {% endtab %}
 {% endtabs %}
 
+### C. Les choix secondaires
+
+Il n'y a qu'un seul choix secondaire : jeter l'éponge, abandonner, déclarer forfait... Peu importe comment vous l'appelez. Vous n'allez jamais l'utiliser, pas vrai, parce que vous êtes courageux ! (ou pas ?)
+
+## 6 \~ Les fins d'arène
+
+Lorsqu'un joueur périt ou déclare forfait, il se retrouve exclu de son équipe. Lorsqu'une équipe ne contient plus aucun joueur, l'autre équipe est déclarée vainqueur, et tous ses joueurs encore en vie bénéficient des bonus de victoire.
