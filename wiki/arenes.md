@@ -15,7 +15,7 @@ Les arènes sont un système de combat interactif à travers lequel des joueurs 
 
 ### Les rotations
 
-Pour que les combats restent équilibrer malgré le nombre de joueurs, un système de rotation est en place. Pour éviter les gros pavés explicatifs, nous avons conçu pour vous un schéma simplifié pour comprendre comment il fonctionne :&#x20;
+Pour que les combats restent équilibrés malgré le nombre de joueurs, un système de rotation est en place. Pour éviter les gros pavés explicatifs, nous avons conçu pour vous un schéma simplifié pour comprendre comment il fonctionne :&#x20;
 
 ```
 Attaquant = Joueur Équipe(1) aléatoire
@@ -54,7 +54,7 @@ Pour qu'un combat puisse être lancé, tous les joueurs impliqués doivent répo
 
 Durant votre combat, vous devez prêter attention à deux éléments ; votre stamina et vos points de vie. Vous devez trouver la stratégie idéale pour ne pas gaspiller trop de stamina, sans pour autant mettre vos points de vie en danger.&#x20;
 
-Votre stamina monte ou baisse en fonction de vos choix, et sert de bride pour vos attaques et défense.
+Votre stamina monte ou baisse en fonction de vos choix, et sert de bride pour vos attaques et défenses.
 
 Vos points de vie sont votre moteur. Tant qu'ils sont supérieurs à 0, vous restez en jeu. Ils ne peuvent pas remonter, alors faites vos choix avec parcimonie.
 
@@ -62,7 +62,7 @@ Durant les combats, il y a des variables secondaires présentes en arrière-plan
 
 ## 4 \~ Phase d'Attaque
 
-Lorsque c'est à votre tour, lorsque la rotation vous a sélectionné comme attaquant, vous devez faire un choix. Il y a des informations partout, des données partout, et vous ne savez pas quoi faire.
+Lorsque c'est à votre tour, quand la rotation vous a sélectionné comme attaquant, vous devez faire un choix. Il y a des informations partout, des données partout, et vous ne savez pas quoi faire.
 
 Voici comment ça marche.
 
@@ -72,7 +72,7 @@ La page du choix d'attaque ressemble à ça :&#x20;
 
 ![](../.gitbook/assets/attaque\_base.png)
 
-En premier lieu s'affiche le numéro du tour ainsi que les dégâts infligés lors du tour précédent (si tour précédent il y a). Puis apparaît ensuite les points de vie et la stamina de l'attaquant (vous) et de votre cible (défenseur).
+En premier lieu s'affiche le numéro du tour ainsi que les dégâts infligés lors du tour précédent (si tour précédent il y a). Puis apparaissent ensuite les points de vie et la stamina de l'attaquant (vous) et de votre cible (défenseur).
 
 Viennent ensuite les choix.
 
@@ -95,7 +95,7 @@ stamina = +1
 {% tab title="L'attaque chargée" %}
 **Emoji : 💥**\
 ****\
-****L'attaque chargée est une attaque puissante qui renvoi une plus grande quantité de dégâts que l'attaque rapide. Elle coûte cher en endurance, mais est très rentable pour mettre la pression sur l'adversaire sans trop dépenser.
+****L'attaque chargée est une attaque puissante qui renvoie une plus grande quantité de dégâts que l'attaque rapide. Elle coûte cher en endurance, mais est très rentable pour mettre la pression sur l'adversaire sans trop dépenser.
 
 **Données mathématiques :**&#x20;
 
@@ -109,7 +109,7 @@ ratio de fail = +10%
 {% tab title="L'attaque prudente (ou anti-contre)" %}
 **Emoji : ❄️**\
 \
-L'attaque prudente ou anti-contre est une attaque très stratégique qui réduit drastiquement le taux de contre du défenseur. Elle fait des dégâts moyens et coûtent peu de stamina. Cette attaque est très forte pour feinter son adversaire, ou assurer des petits dégâts.
+L'attaque prudente ou anti-contre est une attaque très stratégique qui réduit drastiquement le taux de contre du défenseur. Elle fait des dégâts moyens et coûte peu de stamina. Cette attaque est très forte pour feinter son adversaire, ou assurer des petits dégâts.
 
 **Données mathématiques :**&#x20;
 
@@ -123,7 +123,7 @@ ratio de contre = -30%
 {% tab title="L'attaque spéciale" %}
 **Emoji : 💀**\
 \
-L'attaque spéciale ou ultime est l'attaque la plus puissante du jeu. Avec un coût à 5 de stamina, elle renvoi d'énormes dégâts. Cependant assurez-vous que la défense de votre adversaire est basse, car en cas de raté, vous serez dans un gros désavantage.
+L'attaque spéciale ou ultime est l'attaque la plus puissante du jeu. Avec un coût à 5 de stamina, elle renvoie d'énormes dégâts. Cependant assurez-vous que la défense de votre adversaire est basse, car en cas de raté, vous serez dans un gros désavantage.
 
 **Données mathématiques :**&#x20;
 
