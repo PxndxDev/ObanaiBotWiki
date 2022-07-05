@@ -56,7 +56,7 @@ Durant votre combat, vous devez prêter attention à deux éléments ; votre sta
 
 Votre stamina monte ou baisse en fonction de vos choix, et sert de bride pour vos attaques et défense.
 
-Vos points de vie sont votre moteur. Tant qu'ils sont supérieurs à 100, vous restez en jeu. Ils ne peuvent pas remonter, alors faites vos choix avec parcimonie.
+Vos points de vie sont votre moteur. Tant qu'ils sont supérieurs à 0, vous restez en jeu. Ils ne peuvent pas remonter, alors faites vos choix avec parcimonie.
 
 Durant les combats, il y a des variables secondaires présentes en arrière-plan. Premièrement, le ratio de contre qui définit le pourcentage de chance du défenseur de contrer votre attaque et de renvoyer des dégâts. Il y a également le ratio de fail, qui définit vos chances de rater votre attaque ou votre défense.
 
@@ -109,7 +109,7 @@ ratio de fail = +10%
 {% tab title="L'attaque prudente (ou anti-contre)" %}
 **Emoji : ❄️**\
 \
-L'attaque prudente ou anti-contre est une attaque très stratégique qui réduit drastiquement le taux de contre du défenseur. Elle fait des dégâts moyens et coûtent peu de stamina. Cette attaque est très forte en cas pour feinter son adversaire, ou assurer des petits dégâts.
+L'attaque prudente ou anti-contre est une attaque très stratégique qui réduit drastiquement le taux de contre du défenseur. Elle fait des dégâts moyens et coûtent peu de stamina. Cette attaque est très forte pour feinter son adversaire, ou assurer des petits dégâts.
 
 **Données mathématiques :**&#x20;
 
@@ -152,3 +152,20 @@ Le changement de cible est un choix à part entière très puissant, car il perm
 Ce choix... Est simple. Vous cliquez, vous confirmez, ou pas, et... C'est tout.
 {% endtab %}
 {% endtabs %}
+
+Cependant, votre cible sait se défendre, et c'est pour cela que nous allons voir les différents choix défensifs. Car même après avoir déterminé le nombre de dégâts brutes que vous allez mettre, il faut prendre en compte l'encaissement de l'adversaire.
+
+## 5 \~ Phase de Défense
+
+Lorsque c'est à vous de défendre, vous ne connaissez bien évidemment pas le choix de votre attaquant. L'affichage du panel est semblable à celui de l'attaque.&#x20;
+
+### A. Affichage
+
+Voyez par vous-même :&#x20;
+
+![](../.gitbook/assets/défense\_base.png)
+
+L'organisation des données est le même que pour l'attaque, si vous ne vous en rappelez-plus, on vous y emmène [ici](arenes.md#4-phase-dattaque).&#x20;
+
+### B. Les choix primaires
+
