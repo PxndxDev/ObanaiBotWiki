@@ -221,7 +221,21 @@ dégâts de contre = 40% force (défenseur) - 15% défense (attaquant)
 
 Il n'y a qu'un seul choix secondaire : jeter l'éponge, abandonner, déclarer forfait... Peu importe comment vous l'appelez. Vous n'allez jamais l'utiliser, pas vrai, parce que vous êtes courageux ! (ou pas ?)
 
-## 6 \~ Les fins d'arène
+## 6 \~ Les dégâts
+
+Une fois les dégâts brutes et l'encaissement calculés, il est très facile de savoir combien de dommages vous allez infliger à votre adversaire. Il suffit simplement de faire :&#x20;
+
+```
+encaissement = dégâts brutes - encaissement
+```
+
+Cette formule marche dans le cas où le défenseur ne contre pas. En cas de contre, les dégâts renvoyés par le défenseur sont égaux à :&#x20;
+
+```
+dégâts de contre = 40% force (défenseur) - 15% défense (attaquant)
+```
+
+## 7 \~ Les fins d'arène
 
 Lorsqu'un joueur périt ou déclare forfait, il se retrouve exclu de son équipe. Lorsqu'une équipe ne contient plus aucun joueur, l'autre équipe est déclarée vainqueur, et tous ses joueurs encore en vie bénéficient des bonus de victoire.
 
