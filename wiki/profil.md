@@ -50,3 +50,31 @@ Le changement de catégorie est encore plus simple. Il s'agit de la même comman
 | Pourfendeur                                                | Force                                      | Agilité                                    | <p>Souffle de la flamme, <br>Souffle de la fleur, <br>Souffle de la brume, <br>Souffle du soleil, <br>Souffle de la foudre, <br>Souffle de l'eau, <br>Souffle du vent</p> |
 
 Chaque bonus augmente l'aptitude ciblée de 5% par niveau de catégorie, et chaque malus diminue l'aptitude ciblée de 2% par niveau de catégorie.
+
+## 2 \~ Les aptitudes et statistiques
+
+Lorsque vous améliorez vos aptitudes, votre niveau d'aptitude augmente. Pour en savoir plus sur cette mécanique, rendez-vous sur [cette page](entrainements.md). Pour voir vos statistiques, faites la commande `<prefix>stats`. Voici un exemple ci-dessous :&#x20;
+
+![](https://cdn.discordapp.com/attachments/983073037001834617/994249257152426125/unknown.png)
+
+## 3 \~ L'expérience
+
+L'expérience se gagne en jouant. Elle détermine la limite de niveaux de vos aptitudes : vous pouvez améliorer une aptitude à un niveau X si vous êtes niveau d'expérience X-1. Voici un exemple plus parlant :&#x20;
+
+> Un joueur niveau 4 peut monter toutes ses aptitudes niveau 5.
+
+Voici un exemple illustré pour voir son niveau :&#x20;
+
+![](https://cdn.discordapp.com/attachments/983073037001834617/994250453665730700/unknown.png)
+
+## 4 \~ Le classement
+
+Il existe actuellement un classement entre les joueurs qui détermine les 20 meilleurs en terme d'expérience. Vous pouvez y voir combien vous êtes classé. Voici un exemple visuel de la commande `<prefix>top` permettant de voir ce classement :&#x20;
+
+![](https://cdn.discordapp.com/attachments/983073037001834617/994251389339439124/unknown.png)
+
+## 5 \~ L'inventaire
+
+Lorsque vous collectez des matériaux, vous pouvez les voir (ainsi que voir votre nombre de yens) avec la commande \<prefix>inventory. Voici un exemple visuel :&#x20;
+
+![](https://cdn.discordapp.com/attachments/983073037001834617/994252844251230308/unknown.png)
