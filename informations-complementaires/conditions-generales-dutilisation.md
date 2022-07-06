@@ -1,22 +1,22 @@
 ---
-description: Les conditions générales d'utilisation du projet.
-cover: ../.gitbook/assets/politique_de_confendialité.png
+description: Les conditions générales d'utilisation du service.
+cover: ../.gitbook/assets/cgu (1).jpg
 coverY: 0
 ---
 
 # Conditions Générales d'Utilisation
-
-{% hint style="success" %}
-En vous inscrivant sur le service qu'est le projet Obanai, vous confirmez avoir lu, pris connaissance et accepté les conditions générales d'utilisation ci-dessous, ainsi que les Discord Terms of Services.
-
-En cas de non accord avec ces termes, l'utilisation du service n'est pas autorisée.
-{% endhint %}
 
 ## Nos termes
 
 Lorsque nous utiliseront les termes « nous », « nos », « le service » et « le projet », nous ferons allusions au service proposé sur le bot et sur ce document internet.
 
 Lorsque nous utiliserons les termes « vous », « vos », « le client », « l'utilisateur », nous ferons référence à quiconque personne lisant ce document et qui accepte ces conditions.
+
+{% hint style="success" %}
+En vous inscrivant sur le service qu'est le projet Obanai, vous confirmez avoir lu, pris connaissance et accepté les conditions générales d'utilisation ci-dessous, ainsi que les Discord Terms of Services.
+
+En cas de non accord avec ces termes, l'utilisation du service n'est pas autorisée.
+{% endhint %}
 
 ## Licence
 
