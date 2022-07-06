@@ -11,7 +11,7 @@
 * [Corbeaux de liaison](wiki/corbeaux-de-liaison.md)
 * [Grimoires](wiki/grimoires.md)
 * [Arènes](wiki/arenes.md)
-* [Statistiques](wiki/statistiques.md)
+* [Profil](wiki/profil.md)
 * [Armes](wiki/armes.md)
 * [Escouades](wiki/escouades.md)
 * [Badges & Grades](wiki/badges-and-grades.md)

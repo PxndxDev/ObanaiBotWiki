@@ -44,3 +44,8 @@ Il y a différents corbeaux aux bonus très variés. Ils sont listés ci-dessous
 
 
 
+## 4 \~ Voir son corbeau de liaison
+
+Pour voir son corbeau de liaison, rien de plus simple. Il suffit de faire la commande \<prefix>crow. Voici un exemple illustré :&#x20;
+
+![](https://cdn.discordapp.com/attachments/958432552044097536/994145937972809768/unknown.png)

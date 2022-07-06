@@ -61,9 +61,15 @@ Pour comprendre comment fonctionnent les grimoires, voici une liste de ces derni
 | Grimoire de maîtrise     | Aucun                                                                                                                                                                                                                          | Non       |
 
 {% hint style="info" %}
-Le grimoire éternel est une récompense VIP non obtenable. Le grimoire de maîtrise n'est pas un grimoire octroyant des bonus, mais un grimoire donnant la possibilité d'améliorer sa catégorie ou de la changer (voir [cette page](statistiques.md)).
+Le grimoire éternel est une récompense VIP non obtenable. Le grimoire de maîtrise n'est pas un grimoire octroyant des bonus, mais un grimoire donnant la possibilité d'améliorer sa catégorie ou de la changer (voir [cette page](profil.md)).
 {% endhint %}
 
 ## 5 \~ Temps d'activité
 
 Un grimoire reste actif 3 jours à compter dès qu'il est équipé (lorsqu'il est stocké, son temps ne s'écoule pas). Le grimoire éternel reste actif 10 ans... c'est beaucoup ! Tandis que le grimoire de maîtrise est un consommable.
+
+## 6 \~ Voir son grimoire
+
+Vous pouvez voir le grimoire que vous avez avec la commande \<prefix>grimoires. Voici une capture d'écran illustrative :&#x20;
+
+![](https://cdn.discordapp.com/attachments/958432552044097536/994146747792232529/unknown.png)
