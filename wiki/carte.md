@@ -12,7 +12,9 @@ La carte se divise en 12 régions, et chaque région se divise en une ou plusieu
 
 ## 2 \~ Le visuel de la carte
 
-Le visuel de la carte n'est pas tout à fait prêt. Nous mettrons une image de cette dernière lorsqu'elle sera disponible.
+Le visuel de la carte n'est pas tout à fait prêt. Nous mettrons une image de cette dernière lorsqu'elle sera disponible. Voici une version d'essai :&#x20;
+
+![](<../.gitbook/assets/obanai map v2.jpg>)
 
 ## 3 \~ Les voyages
 

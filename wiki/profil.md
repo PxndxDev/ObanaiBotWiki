@@ -14,7 +14,7 @@ Chaque joueur possède une catégorie de pourfendeur. Il peut la changer à tout
 
 ### A. Améliorer la catégorie
 
-Pour améliorer sa catégorie, il suffit de faire la commande \<prefix>category et de renvoyer le nom de votre catégorie active. Si une catégorie possède plusieurs souffles, donnez celui que vous utilisez actuellement (si vous donnez un autre nom de souffle, vous changerez ce dernier au lieu de l'améliorer).&#x20;
+Pour améliorer sa catégorie, il suffit de faire la commande `<prefix>category` et de renvoyer le nom de votre catégorie active. Si une catégorie possède plusieurs souffles, donnez celui que vous utilisez actuellement (si vous donnez un autre nom de souffle, vous changerez ce dernier au lieu de l'améliorer).&#x20;
 
 Voici des exemples illustrés :&#x20;
 
@@ -75,6 +75,6 @@ Il existe actuellement un classement entre les joueurs qui détermine les 20 mei
 
 ## 5 \~ L'inventaire
 
-Lorsque vous collectez des matériaux, vous pouvez les voir (ainsi que voir votre nombre de yens) avec la commande \<prefix>inventory. Voici un exemple visuel :&#x20;
+Lorsque vous collectez des matériaux, vous pouvez les voir (ainsi que voir votre nombre de yens) avec la commande `<prefix>inventory`. Voici un exemple visuel :&#x20;
 
 ![](https://cdn.discordapp.com/attachments/983073037001834617/994252844251230308/unknown.png)
