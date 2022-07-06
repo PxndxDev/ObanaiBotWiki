@@ -1,6 +1,6 @@
 ---
 description: Cette page expliquera comment fonctionnent les entraînements
-cover: ../.gitbook/assets/entrainements.jpg
+cover: ../../.gitbook/assets/entrainements.jpg
 coverY: 0
 ---
 

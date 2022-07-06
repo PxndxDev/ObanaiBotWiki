@@ -53,7 +53,7 @@ Chaque bonus augmente l'aptitude ciblée de 5% par niveau de catégorie, et chaq
 
 ## 2 \~ Les aptitudes et statistiques
 
-Lorsque vous améliorez vos aptitudes, votre niveau d'aptitude augmente. Pour en savoir plus sur cette mécanique, rendez-vous sur [cette page](entrainements.md). Pour voir vos statistiques, faites la commande `<prefix>stats`. Voici un exemple ci-dessous :&#x20;
+Lorsque vous améliorez vos aptitudes, votre niveau d'aptitude augmente. Pour en savoir plus sur cette mécanique, rendez-vous sur [cette page](carte/entrainements.md). Pour voir vos statistiques, faites la commande `<prefix>stats`. Voici un exemple ci-dessous :&#x20;
 
 ![](https://cdn.discordapp.com/attachments/983073037001834617/994249257152426125/unknown.png)
 

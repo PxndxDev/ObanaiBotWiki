@@ -6,8 +6,8 @@
 ## Wiki
 
 * [Mode histoire](wiki/mode-histoire.md)
-* [Entrainements](wiki/entrainements.md)
-* [Carte](wiki/carte.md)
+* [Carte](wiki/carte/README.md)
+  * [Entrainements](wiki/carte/entrainements.md)
 * [Corbeaux de liaison](wiki/corbeaux-de-liaison.md)
 * [Grimoires](wiki/grimoires.md)
 * [Arènes](wiki/arenes.md)
