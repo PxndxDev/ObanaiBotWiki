@@ -14,7 +14,7 @@ coverY: -393.97402597402595
 Les captures d'écran illustratives de cette page comportent un bot de test, car à l'heure où cette page est écrite des joueur n'ont toujours pas atteint cette étape de l'aventure.
 {% endhint %}
 
-Pour obtenir un grimoire, vous aurez besoin tout d'abord d'un grimoire vierge (pour savoir où en obtenir, lisez [cette page](carte/#5-fouiller-la-zone)). Une fois votre grimoire vierge obtenu, rendez-vous à Yoshiwara chez Franky, pour connaitre cet emplacement, visitez [cette page](carte/#4-les-biomes).&#x20;
+Pour obtenir un grimoire, vous aurez besoin tout d'abord d'un grimoire vierge (pour savoir où en obtenir, lisez [cette page](carte.md#5-fouiller-la-zone)). Une fois votre grimoire vierge obtenu, rendez-vous à Yoshiwara chez Franky, pour connaitre cet emplacement, visitez [cette page](carte.md#4-les-biomes).&#x20;
 
 Une fois là-bas, vous pourrez effectuer la commande `<prefix>grimoire-enchant` et donner votre grimoire à Franky pour qu'il puisse appliquer un enchantement dessus.
 

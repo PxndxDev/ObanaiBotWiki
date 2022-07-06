@@ -10,7 +10,7 @@ coverY: 106.3896103896104
 
 ## 1 \~ Obtenir un corbeau de liaison
 
-Les corbeaux de liaison s'obtiennent dans les biomes suivants : Prairie, Forêt et Forêt noire. Pour plus d'informations sur les biomes, regardez cette [page](carte/). Afin d'obtenir un corbeau, il suffit de faire la commande `<prefix>crow-bait`.&#x20;
+Les corbeaux de liaison s'obtiennent dans les biomes suivants : Prairie, Forêt et Forêt noire. Pour plus d'informations sur les biomes, regardez cette [page](carte.md). Afin d'obtenir un corbeau, il suffit de faire la commande `<prefix>crow-bait`.&#x20;
 
 Pour appâter un corbeau, vous devez posséder 100 graines et 10 vers de terre. Voici un exemple de commande :&#x20;
 

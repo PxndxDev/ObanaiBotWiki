@@ -40,7 +40,7 @@ Les voyages permettent d'explorer la carte. Ils ouvrent la porte aux diverses r�
 | Commande: `<prefix>travel-region`                                            | Commande: `<prefix>travel-area`                        |
 | Permet de changer de région sur la carte et donc de changer sa localisation. | Permet de changer de zone dans la région où vous êtes. |
 
-Pour en apprendre plus sur la carte et les voyages, rendez-vous sur la page dédiée [ici](wiki/carte/).
+Pour en apprendre plus sur la carte et les voyages, rendez-vous sur la page dédiée [ici](wiki/carte.md).
 
 ### B. Les entraînements
 
@@ -48,7 +48,7 @@ Les entraînements permettent de progresser et de devenir plus fort. La mécaniq
 
 ![](https://cdn.discordapp.com/attachments/958432552044097536/993530945640615956/unknown.png)
 
-Pour en apprendre plus sur les aptitudes et leur fonctionnement, n'hésitez pas à visiter la page dédiée [ici](wiki/carte/entrainements.md).
+Pour en apprendre plus sur les aptitudes et leur fonctionnement, n'hésitez pas à visiter la page dédiée [ici](wiki/entrainements.md).
 
 ## 4 \~ Une fois cela fait
 

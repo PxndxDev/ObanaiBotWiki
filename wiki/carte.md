@@ -1,6 +1,6 @@
 ---
 description: Cette partie va présenter les différents fonctionnement de la carte.
-cover: ../../.gitbook/assets/carte.jpg
+cover: ../.gitbook/assets/carte.jpg
 coverY: 0
 ---
 
