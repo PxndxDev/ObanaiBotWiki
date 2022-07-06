@@ -18,5 +18,5 @@
 
 ## Informations complémentaires
 
-* [Conditions d'Utilisation](informations-complementaires/conditions-dutilisation.md)
+* [Conditions Générales d'Utilisation](informations-complementaires/conditions-generales-dutilisation.md)
 * [Politique de confidentialité](informations-complementaires/politique-de-confidentialite.md)
