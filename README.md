@@ -1,5 +1,7 @@
 ---
-description: Cette page présentera le projet Obanai.
+description: >-
+  Cette page présentera le projet Obanai. Ce wiki est à jour pour les versions
+  égales ou supérieures du bot Obanai : v1.0-beta.1.
 cover: .gitbook/assets/présentation.jpg
 coverY: 0
 ---
